@@ -12,10 +12,10 @@ when someone has a growth mindset he will able to improve his abilities continuo
 3. accept criticism and keep an open mind.
 
 # 5 different features of Markdown
-**Bold**
-*Italic*
-~~Strikethrough~~
-`Quoting`
+- **Bold**
+- *Italic*
+- ~~Strikethrough~~
+- `Quoting`
 ```
 block
 block
