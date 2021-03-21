@@ -7,19 +7,19 @@ I learned about two types of operators:
    - !== is not equal to
    - === strict is equal to
    - !== strict not is equal to
-   - ">" greater than
+   - <span>&#62;</span> greater than
    - < less than
-   - ">=" greater than or equal to
+   - <span>&#62;</span>= greater than or equal to
    - <= less than or equal to
 2. Logical operator:
    - && AND
-   - "||" OR
+   - <span>&#8739;&#8739; OR</span>
    - ! NOT
 
 > short circuit evaluation to save some time while the code is running
 
 - put false && anything with AND to ignore the second condition
-- put true "||" anything with OR to ignore the second condition
+- put true <span>&#8739;&#8739;</span> anything with OR to ignore the second condition
 
 ## LOOPS
 
