@@ -13,13 +13,13 @@ I learned about two types of operators:
    - <= less than or equal to
 2. Logical operator:
    - && AND
-   - || OR
+   - "||" OR
    - ! NOT
 
 > short circuit evaluation to save some time while the code is running
 
 - put false && anything with AND to ignore the second condition
-- put true || anything with OR to ignore the second condition
+- put true "||" anything with OR to ignore the second condition
 
 ## LOOPS
 
