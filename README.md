@@ -1,11 +1,11 @@
 # reading-notes
 
-## 102 Class
-
 ### About Me
 
 My name is Mahmoud Saadeh has a bachelor's degree in civil engineering.
 My life goal is to get the most amount of knowledge in Web development, to help me find a place among all of the developers in the world.
+
+## Code 102 Reading Notes
 
 [Growth Mindset](102/Growth-Mindset.md)
 
@@ -20,7 +20,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | read5          | [read5](102/read5.md)                   |
 | read6          | [read6](102/read6.md)                   |
 
-## 201 Class
+## Code 201 Reading Notes
 
 | Assignments | Links                       |
 | :---------- | :-------------------------- |
