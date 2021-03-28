@@ -25,7 +25,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Assignments | Links                       |
 | :---------- | :-------------------------- |
 | Read01      | [Read01](201/Read01.md)     |
-| Read02      | [Read02](201/Read02.md)     |
+| class-02    | [Read02](201/class-02.md)   |
 | Read03      | [Read03](201/Read03.md)     |
 | Read04      | [Read04](201/Read04.md)     |
 | Read05      | [Read05](201/Read05.md)     |

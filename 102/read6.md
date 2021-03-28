@@ -6,7 +6,7 @@
 1. Selectors and Declarations and inside Declarations will be a property and a value.
 1. block and inline elements.
 1. internal and external CSS
-1. Css Rules Cascade
+1. How CSS Rules Cascade
 
 # CSS Color
 
