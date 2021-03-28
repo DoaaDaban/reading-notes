@@ -4,24 +4,24 @@
 1. **Structural markup**: the elements that you can use to
 describe both headings and paragraphs, such as:
     - Headings.
-    - <p> Paragraph
-    - <b> bold
-    - <i> italic
-    - <sup> Superscript
-    - <sub> Subscript
+    - Paragraph
+    - bold
+    - italic
+    - Superscript
+    - Subscript
     - White Space
 2. **Semantic markup**: which provides extra information, such as:
-    - <strong>
-    - <em>
-    - <blockquote> can be used with cite attribute
-    - <q> can be used with cite attribute
-    - <abbr>
-    - <cite> will be rendered as italics.
-    - <dfn>
-    - <address> often will be rendered as italics
-    - <ins> underlined
-    - <del> line through
-    - <s> usually be displayed with a line through the center
+    - strong
+    - em
+    - blockquote can be used with cite attribute
+    - q can be used with cite attribute
+    - abbr
+    - cite will be rendered as italics.
+    - dfn
+    - address often will be rendered as italics
+    - ins underlined
+    - del line through
+    - s usually be displayed with a line through the center
 
 # CSS
 
