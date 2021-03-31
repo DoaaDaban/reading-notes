@@ -8,7 +8,7 @@
 1. internal and external CSS
 1. How CSS Rules Cascade
 
-# CSS Color
+# Color
 
 ### From this chapter I learned about:
 
