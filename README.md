@@ -40,4 +40,5 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Read01      | [Read014a](201/Read014a.md) |
 | Read14b     | [Read14b](201/Read14b.md)   |
 
+Live URL From github: [reading-notes](https://mahmoud-saadeh.github.io/reading-notes/)
 Links: follow me on: [Github](https://github.com/Mahmoud-Saadeh) and [LinkedIn](https://www.linkedin.com/in/mahmoud-saadeh/)
