@@ -51,3 +51,10 @@
 1. attribute controls, which enables the default set of playback controls. If you don't specify this, you get no playback controls
 1. The HTMLMediaElement API
 1. creating simple video and audio players
+
+### Flash
+
+#### I learned from this chapter:
+
+1. Flash has been a very popular tool for creating animations, and later for playing audio and video on websites.
+1. the first major players to provide web animation, audio, and video.
