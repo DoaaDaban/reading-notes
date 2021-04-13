@@ -18,7 +18,7 @@
 1. 2D Transforms
    - 2D Rotate:The rotate value provides the ability to rotate an element from 0 to 360 degrees.
    - 2D Scale: allows you to change the appeared size of an element.
-   - 2D Translate: will change the position of an element
+   - 2D Translate: will change the position of an element.
    - 2D Skew: used to distort elements on the horizontal axis, vertical axis, or both.
 1. To combine transforms, list the transform values within the transform property one after the other without the use of commas.
 1. Perspective
@@ -34,9 +34,9 @@
 #### I learned from this article
 
 1. a transition to take place, an element must have a change in state, and different styles must be identified for each state
-1. There are four transition related properties in total
+1. There are four transition related properties in total.
    - transition-property: only the properties identified within the transition-property value will be affected by any transitions.
-   - transition-duration: The duration in which a transition takes place
+   - transition-duration: The duration in which a transition takes place.
    - transition-timing-function: is used to set the speed in which a transition will move.
      - ease-in: starts slowly and speeds up throughout the transition, while the
      - ease-out: starts quickly and slows down throughout the transition.
