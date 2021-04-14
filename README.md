@@ -38,7 +38,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Read12      | [Read12](201/Read12.md)   |
 | Read13      | [Read13](201/Read13.md)   |
 | Read13b     | [Read13b](201/Read13b.md) |
-| Read14b     | [Read14b](201/Read14b.md) |
+| Read14      | [Read14](201/Read14.md)   |
 
 Live URL From github: [reading-notes](https://mahmoud-saadeh.github.io/reading-notes/)
 Links: follow me on: [Github](https://github.com/Mahmoud-Saadeh) and [LinkedIn](https://www.linkedin.com/in/mahmoud-saadeh/)
