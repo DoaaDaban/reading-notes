@@ -42,6 +42,10 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 
 ## Code 301 - Intermediate Software Development
 
+| Assignments         | Links                                  |
+| :----------         | :------------------------              |
+| Read: Class 01      | [Read: Class 01](301/ReadClass01.md)   |
+
 ## Code 401 - Advanced Software Development
 
 Live URL From github: [reading-notes](https://mahmoud-saadeh.github.io/reading-notes/)
