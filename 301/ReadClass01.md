@@ -34,3 +34,5 @@
 
 1. What is the flow of props?
     - uni-directional flow (one way from parent to child).
+
+## Things I want to know more about
