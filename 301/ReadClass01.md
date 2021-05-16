@@ -2,28 +2,29 @@
 
 ## [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-1. What is a component?
-    - a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
-1. What are the charactistics of a component?
-    - Reusability
-    - Replaceable
-    - Not context specifi
-    - Extensible
-    - Encapsulated
-    - Independent
-1. What are the advantages of using component based architecture?
-    - Ease of deployment
-    - Reduced cost
-    - Ease of development
-    - Reusable
-    - Modification of technical complexity
-    - Reliability
-    - System maintenance and evolution
-    - Independent
+1. What is a component?
+    - a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+
+1. What are the characteristics of a component?
+    - Reusability
+    - Replaceable
+    - Not context-specific
+    - Extensible
+    - Encapsulated
+    - Independent
+1. What are the advantages of using component-based architecture?
+    - Ease of deployment
+    - Reduced cost
+    - Ease of development
+    - Reusable
+    - Modification of technical complexity
+    - Reliability
+    - System maintenance and evolution
+    - Independent
 
 ## [React Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
-1. What is props short for?
+1. What are props short for?
     - props short for properties
 
 1. How are props used in React?
