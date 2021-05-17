@@ -9,14 +9,12 @@
     - static getDerivedStateFromProps
 
 1. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
-
     - constructor
     - render
     - componentDidMount
     - React Updates
     - componentWillUnmount
 1. What does componentDidMount do?
-
     - load anything using a network request or initialize the DOM.
     - setState() can be called here, but it should be used sparingly because it will cause a rerender, which can lead to performance issues.
 
