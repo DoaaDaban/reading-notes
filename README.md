@@ -50,6 +50,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Read: Class 04      | [Read: Class 04](301/ReadClass04.md)   |
 | Read: Class 05      | [Read: Class 05](301/ReadClass05.md)   |
 | Read: Class 06      | [Read: Class 06](301/ReadClass06.md)   |
+| Read: Class 07      | [Read: Class 07](301/ReadClass07.md)   |
 
 ## Code 401 - Advanced Software Development
 
