@@ -42,16 +42,18 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 
 ## Code 301 - Intermediate Software Development
 
-| Assignments         | Links                                  |
-| :----------         | :------------------------              |
-| Read: Class 01      | [Read: Class 01](301/ReadClass01.md)   |
-| Read: Class 02      | [Read: Class 02](301/ReadClass02.md)   |
-| Read: Class 03      | [Read: Class 03](301/ReadClass03.md)   |
-| Read: Class 04      | [Read: Class 04](301/ReadClass04.md)   |
-| Read: Class 05      | [Read: Class 05](301/ReadClass05.md)   |
-| Read: Class 06      | [Read: Class 06](301/ReadClass06.md)   |
-| Read: Class 07      | [Read: Class 07](301/ReadClass07.md)   |
-| Read: Class 08      | [Read: Class 08](301/ReadClass08.md)   |
+| Assignments    | Links                                |
+| :------------- | :----------------------------------- |
+| Read: Class 01 | [Read: Class 01](301/ReadClass01.md) |
+| Read: Class 02 | [Read: Class 02](301/ReadClass02.md) |
+| Read: Class 03 | [Read: Class 03](301/ReadClass03.md) |
+| Read: Class 04 | [Read: Class 04](301/ReadClass04.md) |
+| Read: Class 05 | [Read: Class 05](301/ReadClass05.md) |
+| Read: Class 06 | [Read: Class 06](301/ReadClass06.md) |
+| Read: Class 07 | [Read: Class 07](301/ReadClass07.md) |
+| Read: Class 08 | [Read: Class 08](301/ReadClass08.md) |
+| Read: Class 09 | [Read: Class 09](301/ReadClass09.md) |
+| Read: Class 10 | [Read: Class 10](301/ReadClass10.md) |
 
 ## Code 401 - Advanced Software Development
 
