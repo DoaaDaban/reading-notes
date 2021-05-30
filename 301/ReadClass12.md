@@ -60,7 +60,7 @@
 
 1. How does it work?
 
-   - [How does it work](./img/NoSQL.png)
+   - ![How does it work](./img/NoSQL.png)
 
 1. What is inside of a Mongo database?
 
