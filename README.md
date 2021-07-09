@@ -70,6 +70,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Read: Class 06 | [Read: Class 06](401/ReadClass06.md) |
 | Read: Class 08 | [Read: Class 08](401/ReadClass08.md) |
 | Read: Class 09 | [Read: Class 09](401/ReadClass09.md) |
+| Read: Class 11 | [Read: Class 11](401/ReadClass11.md) |
 
 Live URL From github: [reading-notes](https://mahmoud-saadeh.github.io/reading-notes/)
 Links: follow me on: [Github](https://github.com/Mahmoud-Saadeh) and [LinkedIn](https://www.linkedin.com/in/mahmoud-saadeh/)
