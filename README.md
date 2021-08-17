@@ -84,6 +84,7 @@ My life goal is to get the most amount of knowledge in Web development, to help 
 | Read: Class 31 | [Read: Class 31](401/ReadClass31.md) |
 | Read: Class 32 | [Read: Class 32](401/ReadClass32.md) |
 | Read: Class 33 | [Read: Class 33](401/ReadClass33.md) |
+| Read: Class 34 | [Read: Class 34](401/ReadClass34.md) |
 
 Live URL From github: [reading-notes](https://mahmoud-saadeh.github.io/reading-notes/)
 Links: follow me on: [Github](https://github.com/Mahmoud-Saadeh) and [LinkedIn](https://www.linkedin.com/in/mahmoud-saadeh/)
